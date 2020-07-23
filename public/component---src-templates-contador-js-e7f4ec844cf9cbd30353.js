@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{ifjY:function(n,e,t){"use strict";t.r(e);var u=t("q1tI"),a=t.n(u);e.default=function(){return a.a.createElement("h1",null,"Olá!!!")}}}]);
+//# sourceMappingURL=component---src-templates-contador-js-e7f4ec844cf9cbd30353.js.map
