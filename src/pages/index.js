@@ -84,7 +84,7 @@ const Index = () => {
                     <img src={img1} alt="projectsMade-1"></img>
             
                 <div className="px-6 py-4">
-                    <p className="font-bold text-xl mb-2">Descrição dos projetos aqui</p>
+                    <p className="font-bold text-xl mb-2">Descrição dos projetos aquiiiiiiiiiiiiiiiii</p>
                 </div>
             </div>
             </div>
