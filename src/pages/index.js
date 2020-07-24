@@ -45,17 +45,17 @@ const Index = () => {
        </div>
         <Section/>
         <div className="bg-gray-200">
-            <h2 className="p-8  text-2xl font-bold flex items-center justify-center">Projetos executados
+            <h2 className="p-8  text-2xl font-bold flex items-center justify-center underline">Projetos executados
             </h2>
             <div className="flex flex-wrap">
             {projects.map(() => {
                 return(
                 <div className="max-w-sm mx-6">
                 <div className="m-3 rounded-md shadow-sm">
-                    <img src={img1} alt="projectsMade-1"></img>
+                    <img className="hover:bg-green-400" src={img1} alt="projectsMade-1"></img>
             
                 <div className="px-6 py-4">
-                    <p className="font-bold text-xl mb-2">Descrição do projeto</p>
+                    <p className="font-bold text-xl mb-2 ">Descrição do projeto</p>
                 </div>
             </div>
             </div>
